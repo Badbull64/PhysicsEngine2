@@ -1,0 +1,86 @@
+﻿  Ball.cpp
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\Id_Math.h(14,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\Id_Math.h(15,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(19,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(72,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(81,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(278,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(278,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(279,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(279,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(338,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(351,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(351,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(354,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(354,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(418,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\EngineFiles\particleC.h(557,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(33,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(56,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(57,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(56,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(57,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(152,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(155,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(156,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(157,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(167,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(199,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(287,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(449,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(450,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(451,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(452,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(466,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(467,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(470,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(492,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(493,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(496,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(497,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(504,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(505,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(506,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(507,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(512,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(513,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(514,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(515,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(632,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(633,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1114,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1115,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1120,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1121,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1125,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1126,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1129,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1130,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1135,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1136,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1139,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1140,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1143,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1144,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1147,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1148,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1199,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1272,71): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1272,57): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1280,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1288,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1303,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1304,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1352,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1375,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1386,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\PhysicsEngine2\src\Ball.cpp(1387,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PhysicsEngine2.vcxproj -> C:\Users\danie\OneDrive\Documents\physicsEngine-main\PhysicsEngine2\x64\Debug\PhysicsEngine2.exe
